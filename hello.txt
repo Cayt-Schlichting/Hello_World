@@ -1,3 +1,2 @@
 Hello, World!
 Line 2 is pretty cool too 
-Line 3 is less cool
